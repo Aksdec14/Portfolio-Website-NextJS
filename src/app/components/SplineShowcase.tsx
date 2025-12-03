@@ -56,7 +56,7 @@ export default function SplineShowcase() {
         onTouchStart={() => setInteractive(true)}
       >
         <div className={`${interactive ? "" : "pointer-events-none"} w-full h-full`}>
-          <Spline scene="https://prod.spline.design/7e71UQGg0YsfbZ5P/scene.splinecode" />
+          <Spline scene="https://prod.spline.design/ieQyiK6aZWNVkrrD/scene.splinecode" />
         </div>
       </div>
     </section>
